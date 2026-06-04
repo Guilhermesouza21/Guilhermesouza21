@@ -34,7 +34,7 @@ Acredito que ensinar e colaborar também fazem parte do aprendizado, por isso va
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square\&logo=figma)
+
 
 ---
 
