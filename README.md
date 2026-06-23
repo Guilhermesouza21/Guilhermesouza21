@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Guilherme Souza Santos
 
-🎓 Estudante de Engenharia de Software na UnB
-💻 Interessado em Inteligência Artificial, Cibersegurança, Machine Learning e Desenvolvimento Full Stack
-🚀 Transformando ideias em projetos práticos
+🎓 Estudante de Engenharia de Software na UnB••
+💻 Interessado em Inteligência Artificial, Cibersegurança, Machine Learning e Desenvolvimento Full Stack••
+🚀 Transformando ideias em projetos práticos••
 
 ---
 
