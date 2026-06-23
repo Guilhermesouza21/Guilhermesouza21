@@ -53,3 +53,16 @@ Plataforma de suporte para montagem e análise de computadores utilizando Inteli
 
 * LinkedIn: https://www.linkedin.com/in/guilherme-souza-santos-019b33333/
 * E-mail: [guilherme.souza.santosxd@gmail.com](mailto:guilherme.souza.santosxd@gmail.com)
+
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:guilherme.souza.santosxd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/guilherme-souza-santos-019b33333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
