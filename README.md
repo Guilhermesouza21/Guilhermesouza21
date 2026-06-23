@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,supabase,c,js,ts,react,nodejs,docker,git,github,css,html" />
+  <img src="https://skillicons.dev/icons?i=python,supabase,postgresql,c,js,ts,react,nodejs,docker,git,github,css,html" />
 </p>
 
 ---
